@@ -1,6 +1,6 @@
 Portfolio Page for MSU's Coding Bootcamp.
 
-link to portfolio: 
+link to portfolio: https://tassoni13.github.io/Portfolio/
 
 Special Thanks!
 
